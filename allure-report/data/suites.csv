@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 22 18:29:27 EEST 2024","Mon Apr 22 18:29:30 EEST 2024","3230","chromium","Sign-In-SP.spec.js","Tests for Sign in PC user Browser Chrome","","","Invalid credentials",""
+"passed","Mon Apr 22 18:29:27 EEST 2024","Mon Apr 22 18:29:30 EEST 2024","3379","chromium","Sign-In-SP.spec.js","Tests for Sign in Mobile user Browser Chrome","","","Valid credentials",""
+"passed","Mon Apr 22 18:29:26 EEST 2024","Mon Apr 22 18:29:30 EEST 2024","3195","chromium","Sign-In-SP.spec.js","Tests for Sign in Mobile user Browser Chrome","","","Invalid credentials",""
+"passed","Mon Apr 22 18:29:27 EEST 2024","Mon Apr 22 18:29:30 EEST 2024","3595","chromium","Sign-In-SP.spec.js","Tests for Sign in PC user Browser Chrome","","","Valid credentials",""
+"passed","Mon Apr 22 18:29:27 EEST 2024","Mon Apr 22 18:29:36 EEST 2024","9055","chromium","Order-SP.spec.ts","Order sidePick PC user","","","test",""
