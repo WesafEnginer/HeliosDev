@@ -1,0 +1,68 @@
+An error occurred: ExpectError: Timed out 5000ms waiting for expect(locator).toBeVisible()
+
+Locator: getByRole('button', { name: 'Start RFQ' })
+Expected: visible
+Received: hidden
+Call log:
+  - expect.toBeVisible with timeout 5000ms
+  - waiting for getByRole('button', { name: 'Start RFQ' })
+
+    at /home/wesaf/Projects/Helios/e2e/order.spec.js:26:9 {
+  matcherResult: {
+    message: '\x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+      '\n' +
+      "Locator: getByRole('button', { name: 'Start RFQ' })\n" +
+      'Expected: visible\n' +
+      'Received: hidden\n' +
+      'Call log:\n' +
+      '  \x1B[2m- expect.toBeVisible with timeout 5000ms\x1B[22m\n' +
+      "\x1B[2m  - waiting for getByRole('button', { name: 'Start RFQ' })\x1B[22m\n",
+    pass: false,
+    actual: 'hidden',
+    name: 'toBeVisible',
+    expected: 'visible',
+    log: [
+      'expect.toBeVisible with timeout 5000ms',
+      "waiting for getByRole('button', { name: 'Start RFQ' })"
+    ],
+    timeout: 5000
+  },
+  [Symbol(step)]: {
+    stepId: 'expect@13',
+    category: 'expect',
+    title: 'expect.toBeVisible',
+    params: undefined,
+    wallTime: 1714662958078,
+    infectParentStepsWithError: undefined,
+    boxedStack: undefined,
+    location: {
+      file: '/home/wesaf/Projects/Helios/e2e/order.spec.js',
+      line: 26,
+      column: 9,
+      function: undefined
+    },
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1714662963087,
+    error: {
+      message: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+        '\n' +
+        "Locator: getByRole('button', { name: 'Start RFQ' })\n" +
+        'Expected: visible\n' +
+        'Received: hidden\n' +
+        'Call log:\n' +
+        '  \x1B[2m- expect.toBeVisible with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for getByRole('button', { name: 'Start RFQ' })\x1B[22m\n",
+      stack: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+        '\n' +
+        "Locator: getByRole('button', { name: 'Start RFQ' })\n" +
+        'Expected: visible\n' +
+        'Received: hidden\n' +
+        'Call log:\n' +
+        '  \x1B[2m- expect.toBeVisible with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for getByRole('button', { name: 'Start RFQ' })\x1B[22m\n" +
+        '\n' +
+        '    at /home/wesaf/Projects/Helios/e2e/order.spec.js:26:9'
+    }
+  }
+}

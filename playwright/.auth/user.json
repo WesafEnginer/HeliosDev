@@ -2,17 +2,17 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "jHbvFRIyVbR0UIrVHkcwr67Ew32R_q6u43ZpVrqGDFk-1713799769-1.0.1.1-Ki2L2S0jYDks.enZeCxMLjkArrXFv8bwsJh4S99O6APinGaP1NK29ZTiHhKM05OllsXqqjJ08IvCvZsjkeKvQw",
+      "value": "a93iXiZgm6CRF_G4bqW89XhmaUdI8a9SG44PE0dI43I-1714663548-1.0.1.1-uIp.VAAtCCsjpvW5Oy1tC_oi3snohqsHFQAfBvEViWyCEen66Zo0ozCmhi3r9.u2wxP_ANJ.qViX7eDdMHirzw",
       "domain": ".verified-midge-53.clerk.accounts.dev",
       "path": "/",
-      "expires": 1713801568.250696,
+      "expires": 1714665347.975137,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "_cfuvid",
-      "value": "LCm6SjoWN9QDySLQoZJPv6kDgwJ5GOqqXAqx_UGTRzk-1713799769648-0.0.1.1-604800000",
+      "value": "5PGVVvyLTsSinYMkrDQKlgMdVOxp7OqCqmUtx.Bc04w-1714663548563-0.0.1.1-604800000",
       "domain": ".verified-midge-53.clerk.accounts.dev",
       "path": "/",
       "expires": -1,
@@ -25,27 +25,17 @@
       "value": "0",
       "domain": "portal-dev.helios.supplies",
       "path": "/",
-      "expires": 1745335769,
+      "expires": 1746199551,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Strict"
     },
     {
-      "name": "crisp-client%2Fsession%2F2a8fee8e-7cb2-43c5-9f87-f15d27f18825",
-      "value": "session_559f04a2-5b7e-4cfc-a0f5-c29bba30738e",
-      "domain": ".helios.supplies",
-      "path": "/",
-      "expires": 1729567769,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "__clerk_db_jwt",
-      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMmZTZ0Q0SXVKVllYZG1iZ2hOQ3dVMjJLbFRQIiwiaWQiOiJjbGllbnRfMmZTZ0RKUHAxVHg0SnY4c25GelNqaTBPUmswIiwicm90YXRpbmdfdG9rZW4iOiJmdDVtMHA0cGlpYWhkM3ZuaTd2bGxtMWdidmJjejE2eGtreXl0dm1uIn0.ykAGpRI5Eoygi7NiJykflhZU81vaidlc3_XbEwgdv7l6jp_WtdaXENfJX666fvww6anz_D05RB4NpDthEgmaGl2i1thd1EDJfnxAvfxXhXB92hqJ_PdSbUkF7eTvzArPTzooA3qs743_SBQv7299_mPlfRuLXQ4_OoGyIkflhZnQ1yOZOuRQ783NCVFNcguQRQANuAiDKpFd_uD3AOAFOivThsDlO1R8s8k1yKG7PkfD3b8J5XSOuXMG5Ys8xDIjvGz96TfZ02GaI5_OBwNx9yKOEQ_RxVdHFCOtVB2PQoxg1d4EtYCJcQU19uIcGe1P4CDy2yeVE840TfiWpQwxtA",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMmZ1dXpudnU0djdocjhpemRTN1FYQUhjWWt6IiwiaWQiOiJjbGllbnRfMmZ1djBJMGloMEJZTnRYbTJ1S01XY0FsODdDIiwicm90YXRpbmdfdG9rZW4iOiJ0Mmh0bHNmdncwMzk5aXlicTYyazVycXg4cXpjeHNwYjVnZG5oamV4In0.gIXgwWbbZ-bsstmd1opxYFqS-zZwQINNLcl4I3ScYWAZZCXh0aUdbx3M6fmWy36vxw7B1rumHtmAi_Hd0IsSUwAIlyJcqlPuElO0XpBUsww9wLE_aw6n8W0oZHcbFIZ31ounGzAWl8FeReB30psKFIoiGJxNrXgkcNSOI0Q0UF14OFs1zSJ8ZKNJmKQxqHRldN9Rxq4r9ZZT-1D5Gr9tzJrPE9fcMRTZnRFGekIErzwrQhEQ7zVyMJw4tFV_sE_2Dn8hu4DLBcEXjxqiNPVKVTD2qy55cAXgCGPDbhKi4u2ZE1ucSgpfPB6vqAsxp4jDFWU2CKW1FyX2vBR6KGmI8A",
       "domain": "portal-dev.helios.supplies",
       "path": "/",
-      "expires": 1745335770,
+      "expires": 1746199551,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -57,15 +47,7 @@
       "localStorage": [
         {
           "name": "clerk-db-jwt",
-          "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMmZTZ0Q0SXVKVllYZG1iZ2hOQ3dVMjJLbFRQIiwiaWQiOiJjbGllbnRfMmZTZ0RKUHAxVHg0SnY4c25GelNqaTBPUmswIiwicm90YXRpbmdfdG9rZW4iOiJmdDVtMHA0cGlpYWhkM3ZuaTd2bGxtMWdidmJjejE2eGtreXl0dm1uIn0.ykAGpRI5Eoygi7NiJykflhZU81vaidlc3_XbEwgdv7l6jp_WtdaXENfJX666fvww6anz_D05RB4NpDthEgmaGl2i1thd1EDJfnxAvfxXhXB92hqJ_PdSbUkF7eTvzArPTzooA3qs743_SBQv7299_mPlfRuLXQ4_OoGyIkflhZnQ1yOZOuRQ783NCVFNcguQRQANuAiDKpFd_uD3AOAFOivThsDlO1R8s8k1yKG7PkfD3b8J5XSOuXMG5Ys8xDIjvGz96TfZ02GaI5_OBwNx9yKOEQ_RxVdHFCOtVB2PQoxg1d4EtYCJcQU19uIcGe1P4CDy2yeVE840TfiWpQwxtA"
-        },
-        {
-          "name": "crisp-client/session/2a8fee8e-7cb2-43c5-9f87-f15d27f18825:e",
-          "value": "1713815537889"
-        },
-        {
-          "name": "crisp-client/session/2a8fee8e-7cb2-43c5-9f87-f15d27f18825",
-          "value": "session_559f04a2-5b7e-4cfc-a0f5-c29bba30738e"
+          "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMmZ1dXpudnU0djdocjhpemRTN1FYQUhjWWt6IiwiaWQiOiJjbGllbnRfMmZ1djBJMGloMEJZTnRYbTJ1S01XY0FsODdDIiwicm90YXRpbmdfdG9rZW4iOiJ0Mmh0bHNmdncwMzk5aXlicTYyazVycXg4cXpjeHNwYjVnZG5oamV4In0.gIXgwWbbZ-bsstmd1opxYFqS-zZwQINNLcl4I3ScYWAZZCXh0aUdbx3M6fmWy36vxw7B1rumHtmAi_Hd0IsSUwAIlyJcqlPuElO0XpBUsww9wLE_aw6n8W0oZHcbFIZ31ounGzAWl8FeReB30psKFIoiGJxNrXgkcNSOI0Q0UF14OFs1zSJ8ZKNJmKQxqHRldN9Rxq4r9ZZT-1D5Gr9tzJrPE9fcMRTZnRFGekIErzwrQhEQ7zVyMJw4tFV_sE_2Dn8hu4DLBcEXjxqiNPVKVTD2qy55cAXgCGPDbhKi4u2ZE1ucSgpfPB6vqAsxp4jDFWU2CKW1FyX2vBR6KGmI8A"
         }
       ]
     }
