@@ -26,9 +26,9 @@ test.describe("Tests for Sign in PC user Browser Chrome", () => {
     await page.goto("https://portal-dev.helios.supplies/sign-in");
     await page.getByPlaceholder("name@example.com").fill("test123@ss.com");
     await page.getByRole("button", { name: "Continue", exact: true }).click();
-    await expect(page.getByText("Couldn't find your account.")).toBeVisible();
+    await expect(page.getByText("No account? Sign upContinue")).toBeVisible();
     await expect(page.locator("form")).toContainText(
-      "Couldn't find your account."
+      "No account? Sign upContinue"
     );
     await page.close();
   });
@@ -65,9 +65,9 @@ test.describe("Tests for Sign in Mobile user Browser Chrome", () => {
     });
     await page.getByPlaceholder("name@example.com").fill("test123@ss.com");
     await page.getByRole("button", { name: "Continue", exact: true }).click();
-    await expect(page.getByText("Couldn't find your account.")).toBeVisible();
+    await expect(page.getByText("No account? Sign upContinue")).toBeVisible();
     await expect(page.locator("form")).toContainText(
-      "Couldn't find your account."
+      "No account? Sign upContinue"
     );
     await page.close();
   });
